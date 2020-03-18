@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reitivaero.boardblueprint.co/sitemap.xml
